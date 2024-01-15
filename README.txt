@@ -1,11 +1,3 @@
-COEN 283 HMW02
-==============
-
-- First Name: Gauri 
-- Last Name: Dave
-- SCU ID:07700009965
-- Email: gdave@scu.edu
-
 Code Structure
 ==============
 
